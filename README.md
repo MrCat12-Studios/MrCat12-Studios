@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrCat12-Studios
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning cpp
+- 👀 I’m interested in OS development
+- 🌱 I’m currently learning kotlin (for no reason)
 - 💞️ I’m looking to collaborate on...(idk)
 - 📫 How to reach me: manos.pet12@gmail.com
 - 😄 Pronouns: He/Him
